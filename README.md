@@ -12,7 +12,7 @@
       </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td colspan="2">
       <img src="./img/mowangshuying.png"/>
     </td>  
 ​  </tr>
