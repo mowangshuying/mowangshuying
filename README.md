@@ -12,16 +12,16 @@
       </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="./img/mowangshuying.png"/>
-    </td>  
-  </tr>
-  <tr>
      <td colspan="2">
          <p><b>推荐的一些学习资料</b></p>
          <p>cppreference.com(学习c++特性等):<a>https://en.cppreference.com/w/</a></p>
          <p>面圈网(可以找到很多教程)：<a>https://www.mianshigee.com/</a></p>
      </td> 
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="./img/mowangshuying.png"/>
+    </td>  
   </tr>
 </tbody>
 </table>
