@@ -1,36 +1,17 @@
-<h3> 莫忘输赢 &lt mowangshuying's github &gt </h3>
-<table width="100%" border="0" cellspacing="15" cellpadding="0">
-<tbody>
-  <tr>
-      <td>
-        <p><b>个人简介:</b>如果没有梦想，你将是行尸走肉;如果你忘记什么，那一定是初心;学习任何东西都是痛苦的，不能因为是痛苦就停滞不前 坚信:吾之利剑斩苍穹！</p>
-        <p><b>github简介:</b>莫忘输赢的github</p>
-        <p><b>gitbub描述:</b>代码记录者，时间不易，珍惜时光！</p>
-         <p><em>努力奔跑吧！追随着自己的梦想！</em></p>
-      </td>
-  </tr>
+# 莫忘输赢's github
 
-  <tr>
-      <td>
-        <p align="center" style="background-color:#fff"> <img src="https://github-readme-stats.vercel.app/api?username=mowangshuying&show_icons=true&include_all_commits=true&count_private=true" alt="mowangshuying" /> </p>
-      </td>
-  </tr>
+## 个人简介
 
-  <tr>
-     <td>
-         <p><b>推荐的一些学习资料</b></p>
-         <ul>
-              <p>cppreference.com(学习c++特性等):<a>https://en.cppreference.com/w/</a></p>
-              <p>面圈网(可以找到很多教程)：<a>https://www.mianshigee.com/</a></p>
-              <p>Learn Git Branching(学习git):<a>https://learngitbranching.js.org/?locale=zh_CN</a></p>
-         </ul>
-     </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <img src="./img/mowangshuying.png"/>
-    </td>  
-  </tr>
-</tbody>
-</table>
+如果没有梦想，你将是行尸走肉;如果你忘记什么，那一定是初心;学习任何东西都是痛苦的，不能因为是痛苦就停滞不前 坚信:吾之利剑斩苍穹！，代码记录者，时间不易，珍惜时光！努力奔跑吧！追随着自己的梦想！
+
+## 用<font color="red">心</font>写码
+
+自己要控制自己真的很难，无法保持学习的心，无法保持坚持的心，觉得自己很累，实际上你的确很累，累的不想去做其他事情，但是如果一直在原地，从来不会有所进步。请用心写代码，写出自己非常喜欢的的代码。
+
+## 代码统计 
+
+ <img src="https://github-readme-stats.vercel.app/api?username=mowangshuying&show_icons=true&include_all_commits=true&count_private=true" alt="mowangshuying" />
+
+## 背景图片
+
+![mowangshuying](./img/mowangshuying.png)
