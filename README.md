@@ -8,6 +8,10 @@
 
 自己要控制自己真的很难，无法保持学习的心，无法保持坚持的心，觉得自己很累，实际上你的确很累，累的不想去做其他事情，但是如果一直在原地，从来不会有所进步。请用心写代码，写出自己非常喜欢的的代码。
 
+## 每日必做
+
+睡觉，吃饭，锻炼
+
 ## 代码统计 
 
  <img src="https://github-readme-stats.vercel.app/api?username=mowangshuying&show_icons=true&include_all_commits=true&count_private=true" alt="mowangshuying" />
