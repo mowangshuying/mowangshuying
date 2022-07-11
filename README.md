@@ -16,6 +16,15 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=mowangshuying&show_icons=true&include_all_commits=true&count_private=true" alt="mowangshuying" />
 
+## 每年计划
+
+* 2022年计划
+  * 学习编译原理，并可以编写简单的语言分析器
+  * 学习汇编语言，并可以简单使用汇编语言
+  * 学习C++高级编程，掌握各种C++特性
+  * 学习前端知识，最终编写一个自己的博客网站（主要内容应该包含：一些学习经验，一些关于c++的知识习题系统等）
+  * 学习CMake，利用其编写大型C++项目和配置
+
 ## 背景图片
 
 ![mowangshuying](./img/mowangshuying.png)
