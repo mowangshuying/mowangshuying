@@ -12,7 +12,7 @@
 
 睡觉，吃饭，锻炼
 
-## 代码统计 
+## 代码统计
 
  <img src="https://github-readme-stats.vercel.app/api?username=mowangshuying&show_icons=true&include_all_commits=true&count_private=true" alt="mowangshuying" />
 
@@ -33,7 +33,7 @@
 
 ## 其他事项
 
-* 项目格式请以 abc-abc-abc格式整改
+* 项目格式请以 abc-abc-abc格式整改，fork的项目命名格式为：abc-fork
 
 * 自编码的开源项目请使用 驼峰命名格式，如：
 
