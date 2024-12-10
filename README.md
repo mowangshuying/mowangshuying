@@ -4,7 +4,9 @@
 
 ## 代码统计
 
- <img src="https://github-readme-stats.vercel.app/api?username=mowangshuying&show_icons=true&include_all_commits=true&count_private=true" alt="mowangshuying" />
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=mowangshuying&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+![](https://raw.githubusercontent.com/mowangshuying/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/mowangshuying/github-stats-transparent/output/generated/languages.svg)
 
 ## 背景图片
 
